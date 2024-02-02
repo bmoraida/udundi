@@ -93,7 +93,7 @@ const heading = animateString("Explore");
   line-height: 0.95;
 }
 
-@media (width <= 1250px) {
+@media only screen and (max-width: 1250px) {
   #explore {
     font-size: 5rem;
     line-height: 0.95;

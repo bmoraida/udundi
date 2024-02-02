@@ -11,7 +11,7 @@ This project is a recreation of the Figma design found [here](https://d2tbpc04.n
 - [x] "Explore" animation on load
 - [x] Modal animation on "More Details" button press
 - [x] Mobile Responsive
-- [x] Image Optimazation
+- [x] Image Optimization
 - [x] Hosted on [Vercel](https://udundi-brenton.vercel.app)
 
 ## Running Locally
